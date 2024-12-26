@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-secure-window": {
+    "source": {
+      "type": "local",
+      "path": "/Users/supholchaipothong/Documents/testCordova/iOSPreventSS/node_modules/cordova-plugin-secure-window"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
